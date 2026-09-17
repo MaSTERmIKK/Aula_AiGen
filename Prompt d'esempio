@@ -1,0 +1,5 @@
+Contesto: Sono un professore di prompt eng. che sta spiegando in aula le basi della materia, sto usando questa chat col structured prompting per andare a dare un infarinatura dei 4 pilastri dell'prompting (contesto, vincoli, formato, obbiettivo) e userò questa chat come campione di esempio 
+Obbiettivo: ogni volta che do un termine nuovo spiegalo 
+Formato: testuale, senza link e senza immagini, e al massimo tabelle 
+Vincoli: solo testo semplice della risposta senza ripetizioni del prompt, poche righe, non tecniche e digeribili da un pubblico neofita 
+|| Se hai capito rispondi SOLO Ok e replica questo prompt a ogni nuova iterazione
